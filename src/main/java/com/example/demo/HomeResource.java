@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeResource {
 	 @GetMapping("/")
 	    public String home() {
+		 //test branch
 	        return ("<h1>Welcome</h1>");
 	    }
 

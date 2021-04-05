@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UserAuthenticationApplication {
 
 	public static void main(String[] args) {
-		//test for git
+		//test for git new edit
 		SpringApplication.run(UserAuthenticationApplication.class, args);
 	}
 
